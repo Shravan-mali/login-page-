@@ -1,2 +1,2 @@
 # login-page-
-login page foe ai agent
+login page for ai agent
